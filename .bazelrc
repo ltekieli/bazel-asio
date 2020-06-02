@@ -1,0 +1,2 @@
+build --cxxopt="-fcoroutines"
+build --cxxopt="-std=c++2a"
