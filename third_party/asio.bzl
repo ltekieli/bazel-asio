@@ -9,5 +9,5 @@ def asio():
             build_file = "//third_party:asio.BUILD",
             remote = "https://github.com/chriskohlhoff/asio.git",
             strip_prefix = "asio/include",
-            shallow_since = "1572989526 +1100",
+            shallow_since = "1590804647 +1000"
         )
