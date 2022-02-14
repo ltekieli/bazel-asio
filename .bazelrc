@@ -1,2 +1,5 @@
 build --cxxopt="-fcoroutines"
 build --cxxopt="-std=c++2a"
+
+# Needed to us bzlmod
+build --experimental_enable_bzlmod

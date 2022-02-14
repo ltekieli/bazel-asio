@@ -19,5 +19,3 @@ $ nc localhost 55555
 
 - *.bazelrc* - contains default flags used for bazel commands
 - *.bazelversion* - contains bazel version supported for this project, which is used by bazel to verify compatibility or by bazelisk to download proper version of bazel
-- *third_party/asio.bzl* specifies how to download asio and which version to use
-- *third_party/asio.BUILD* defines how to use asio in C++ context
